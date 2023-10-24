@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### 
+- 👋 Hi, I’m @Rimo
+- 👽 A full stack developer
+- 📫 How to reach me: zhl85948034@qq.com
+- 
 <!--
 **zhl5317/zhl5317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
